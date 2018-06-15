@@ -3,3 +3,4 @@
 logs
 pacts
 node_modules
+.vscode
