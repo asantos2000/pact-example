@@ -2,7 +2,7 @@
 
 This is an example application for demonstrating the use of pact and consumer driven contract testing.
 
-The codebase was created for the blogpost **TBA**.
+The codebase was created for the blogpost [Consumer Driven Contract Testing with Pact](https://blog.risingstack.com/consumer-driven-contract-testing-with-pact/) by [Tamas Kadlecsik](https://blog.risingstack.com/author/tamas-kadlecsik/).
 
 ## Usage
 
@@ -45,4 +45,4 @@ $ npm run test-provider
 
 ## Compatibility
 
-The codebase was written using `node v8.9.0`
+The codebase was tested using `node v10.3.0`
